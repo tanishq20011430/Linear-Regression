@@ -43,3 +43,6 @@ You will find the following files in the code folder of Multiple Linear Regressi
 You will find the following files in the code folder of Simple Linear Regression in Python
 ![Screenshot (398)](https://user-images.githubusercontent.com/82654736/141264584-dd3831db-b4d4-4207-ae8f-103a64f9b27c.png)
 
+
+
+### Automated Update - Sat Feb  1 06:21:34 UTC 2025 🚀
